@@ -1,0 +1,6 @@
+{
+    "name":"d3d11textri",
+     "dependencies": [
+    "directxtk"
+  ]
+}
